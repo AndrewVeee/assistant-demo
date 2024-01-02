@@ -3,6 +3,8 @@
 This is an early demo of some of the possibilities of an always-on AI assistant. This is only
 scratching the surface to explore what an open source always-on assistant can/should do.
 
+https://github.com/AndrewVeee/assistant-demo/assets/153542699/f7c4f149-b3e5-474c-925f-b570b941b824
+
 # Try It Out
 
 ## Requirements:

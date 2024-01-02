@@ -105,7 +105,7 @@ export default {
             <div v-for="chain in app.chains">
               <button @click="startFeedChain(entry, chain)" class="btn btn-sm">Run {{chain.title}}</button>
             </div>
-            <div class="text-xs highlight p-1 round" v-if="entry.category">{{entry.category}}</div>
+            <div class="ml-2 text-xs highlight p-1 round" v-if="entry.category">{{entry.category}}</div>
           </div>
         </div>
       </div>

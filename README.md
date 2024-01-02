@@ -11,8 +11,8 @@ The only requirement is an OpenAI-compatible API (through oobabooga, llama.cpp, 
 
 ## Usage:
 
-- Clone the repository: `git clone git@github.com:AndrewVeee/assistant-demo.git`
-- Open the `index.html` file in your browser.
+- Download the zip file from `https://github.com/AndrewVeee/assistant-demo/releases/tag/demo-0.1`
+- Unzip and open the `index.html` file in your browser.
 - Click the "API" button at the top to set your API url (eg http://localhost:8000).
 - If you use an API that requires a key (like OpenAI), click Set Key to paste in the key.
   

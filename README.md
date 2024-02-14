@@ -3,6 +3,12 @@
 This is an early demo of some of the possibilities of an always-on AI assistant. This is only
 scratching the surface to explore what an open source always-on assistant can/should do.
 
+# New Repo: Nucleo AI!
+This is now a full app, available here:
+https://github.com/AndrewVeee/nucleo-ai
+
+# Demo Video
+
 https://github.com/AndrewVeee/assistant-demo/assets/153542699/f7c4f149-b3e5-474c-925f-b570b941b824
 
 # Try It Out
